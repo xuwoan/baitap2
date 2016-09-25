@@ -18,7 +18,7 @@ public abstract class Lopmayin {
 	public void Inthongtin()
 	{
 
-        System.out.println("Ma may in "+
+        System.out.println("Ma may in 1  "+
             Mamayin);
         System.out.println("Ten may in "+
             Tenmayin);
